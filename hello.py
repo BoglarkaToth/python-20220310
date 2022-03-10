@@ -93,3 +93,4 @@ print(f"A 4 + 6 kifejezés értéke: {4 + 6}")
 print("hello github")
 
 print("hi")
+print(4)
