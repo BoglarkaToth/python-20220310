@@ -89,4 +89,5 @@ print(f"A {name} emberke {age} éves")
 print(f"A 3 + 5 kifejezés értéke: {3 + 5}")
 
 #int-et srting-el nem tudunk összeconcatenalni
+#ddd
 
