@@ -91,3 +91,5 @@ print(f"A 4 + 6 kifejezés értéke: {4 + 6}")
 # int-et srting-el nem tudunk összeconcatenalni
 
 print("hello github")
+
+print("hi")
