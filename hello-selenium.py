@@ -8,7 +8,7 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 driver.get("https://python.org")
 
 # find go button
-driver.find_element(By.ID, "id-search-field").send_keys("precedence")
+driver.find_element(By.ID, "id-search-field").send_keys("visual studio code")
 
 # click button
 driver.find_element(By.ID, "submit").click()
