@@ -1,0 +1,13 @@
+/* nincs előtte semmi = tag */
+h1 {
+    color: red;
+}
+
+/* .(pont) = class */
+.important-p {
+    color: green;
+}
+
+#training-link {
+    color: crimson;
+}
